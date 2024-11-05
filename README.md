@@ -3,6 +3,7 @@
 Required unity version: 2022.3.20f1 LTS
 
 Game name: TBA
+
 Based on the Unity project Unit 3 example game.
 
 Objective: Avoid the obstacles by jumping over them.
