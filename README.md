@@ -18,7 +18,9 @@ Installation:
 9.	In case the project looks empty in Unity, navigate to Assets > Scenes 
 and select the Prototype 3 Scene.
 
+
 Objective: Avoid the obstacles by jumping over them.
+
 
 To start the game, press the "Start game" button.
 
