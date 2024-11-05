@@ -1,4 +1,4 @@
-Required Unity version: 2022.3.20f1 LTS
+Recommended Unity version: 2022.3.20f1 LTS
 
 Game name: TBA
 
