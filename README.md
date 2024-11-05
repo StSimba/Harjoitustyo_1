@@ -5,6 +5,7 @@ Game name: TBA
 Based on the Unity project, Unit 3 example game.
 
 Installation:
+0.  Download the game as a ZIP archive 
 1.	Extract the ZIP archive with the tool of your choice 
 2.	Go to Unity HUB
 3.	Go to “Projects”
@@ -22,6 +23,7 @@ To start the game, press the "Start game" button.
 
 Controls:
 SPACE - Jump.
+
 Mouse 1 / Left mouse button – Select options
 
 Collision with an obstacle causes a game over and you can reset by pressing the "Restart game" button.
